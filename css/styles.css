@@ -1,0 +1,18 @@
+.tesla{
+  display: none;
+}
+
+.js-hidden {
+
+  display: none;
+}
+
+
+.clickable, .hurt{
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover, .hurt:hover {
+  text-decoration: underline;
+}
